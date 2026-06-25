@@ -14,7 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I build **real-world web solutions** that help businesses grow and operate efficiently  
+- 🚀 I build **real-world web solutions** that help businesses grow and operate efficiently
+- 💻 Tech enthusiast passionate about building impactful solutions for agricultural challenges. 🌾🚜
 - 💼 Open to **freelance work, collaborations, and client projects**  
 - 🧠 Focused on **problem-solving, performance, and user experience**  
 - 📈 I don’t just build websites — I build **solutions that deliver results**
